@@ -50,7 +50,7 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228) [`arxiv 2023`]
 - [SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model](https://arxiv.org/abs/2309.13193) [`arxiv 2023`]
 - [Language-Guided Traffic Simulation via Scene-Level Diffusion](https://arxiv.org/abs/2306.06344) [`arxiv 2023`]
-- [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379v1) [[Github](https://github.com/wudongming97/Prompt4Driving)] [`arxiv 2023`]
+- [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379v1) [`arxiv 2023`, [Github](https://github.com/wudongming97/Prompt4Driving)]
 - [Talk2BEV: Language-Enhanced Bird's Eye View (BEV) Maps](https://arxiv.org/abs/2310.02251) [`arxiv 2023`, [Project](https://llmbev.github.io/talk2bev/), [Github](https://github.com/llmbev/talk2bev)]
 - [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/abs/2310.10357) [`arxiv 2023`]
 - [DriveDreamer: Towards Real-world-driven World Models for Autonomous Driving](https://arxiv.org/pdf/2309.09777.pdf) [`arxiv 2023`]
@@ -78,7 +78,7 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [3D Dense Captioning Beyond Nouns: A Middleware for Autonomous Driving](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) [`openreview 2023`]
 - [SwapTransformer: Highway Overtaking Tactical Planner Model via Imitation Learning on OSHA Dataset](https://openreview.net/attachment?id=9wSWiavGwU&name=pdf) [`openreview 2023`]
 - [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/pdf/2305.14836.pdf) [`arxiv 2023`]
-- DriveLM: Drive on Language [Project](https://github.com/OpenDriveLab/DriveLM)
+- DriveLM: Drive on Language [[Project](https://github.com/OpenDriveLab/DriveLM)]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

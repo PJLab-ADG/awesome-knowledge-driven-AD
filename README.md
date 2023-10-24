@@ -12,20 +12,20 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 🌟 Welcome to follow and star our awesome knowledge-driven AD! 🌟
 
 <pre name="code" class="html">
-<font color="red">[2023.10.25] <b>New: Our survey on the knowledge-driven AD is coming soon! </b></font>
-<font color="red">[2023.10.25] <b>New: We release the awesome knowledge-driven AD!</b></font>
+<font color="red">[2023.10.24] <b>New: Our survey on the knowledge-driven AD is coming soon! </b></font>
+<font color="red">[2023.10.24] <b>New: We release the awesome knowledge-driven AD!</b></font>
 </pre>
 
 ## :page_with_curl: Table of Contents
 
-- [:blue\_car: Awesome Knowledge-driven Autonomous Driving :rocket:](#blue_car-awesome-knowledge-driven-autonomous-driving-rocket)
-  - [:page\_with\_curl: Table of Contents](#page_with_curl-table-of-contents)
-  - [:books: Papers](#books-papers)
-    - [:book: Before LLMs](#book-before-llms)
-    - [:book: The era of LLMs](#book-the-era-of-llms)
-  - [:open\_file\_folder: Datasets](#open_file_folder-datasets)
-  - [:mortar\_board: Tutorial](#mortar_board-tutorial)
-  - [:memo: License](#memo-license)
+- :blue\_car: [Awesome Knowledge-driven Autonomous Driving :rocket:](#blue_car-awesome-knowledge-driven-autonomous-driving-rocket)
+  - :page\_with\_curl: [Table of Contents](#page_with_curl-table-of-contents)
+  - :books: [Papers](#books-papers)
+    - :book: [Before LLMs](#book-before-llms)
+    - :book: [The era of LLMs](#book-the-era-of-llms)
+  - :open\_file\_folder: [Datasets](#open_file_folder-datasets)
+  - :mortar\_board: [Tutorial](#mortar_board-tutorial)
+  - :memo: [License](#memo-license)
 
 ## :books: Papers
 

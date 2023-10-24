@@ -1,4 +1,4 @@
-# :blue_car: Awesome Knowledge-driven Autonomous Driving :rocket:
+# Awesome Knowledge-driven Autonomous Driving :blue_car: 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD)
 <!--
@@ -18,8 +18,6 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 
 ## :page_with_curl: Table of Contents
 
-- :blue\_car: [Awesome Knowledge-driven Autonomous Driving :rocket:](#blue_car-awesome-knowledge-driven-autonomous-driving-rocket)
-  - :page\_with\_curl: [Table of Contents](#page_with_curl-table-of-contents)
   - :books: [Papers](#books-papers)
     - :book: [Before LLMs](#book-before-llms)
     - :book: [The era of LLMs](#book-the-era-of-llms)

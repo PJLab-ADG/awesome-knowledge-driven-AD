@@ -32,7 +32,7 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 <summary>Toggle</summary>
 
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
-- [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673.pdf) [`ICRA 2023`]
+- [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673.pdf) [`ICRA 2023`, [Github](https://github.com/jxbbb/ADAPT)]
 
 </details>
 
@@ -65,19 +65,19 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [Large Language Models Can Design Game-Theoretic Objectives for Multi-Agent Planning](https://openreview.net/pdf?id=DnkCvB8iXR) [`openreview 2023`]
 - [TrafficBots: Towards World Models for Autonomous Driving Simulation and Motion Prediction](https://arxiv.org/pdf/2303.04116.pdf) [`arxiv 2023`]
 - [BEV-CLIP: Multi-Modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving](https://openreview.net/pdf?id=wlqkRFRkYc) [`arxiv 2023`]
-- [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/abs/2310.08710) [`arxiv 2023`]
+- [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/abs/2310.08710) [`NeurIPS 2023`, [Github](https://github.com/waymo-research/waymax)]
 - [Large Language Models Can Design Game-theoretic Objectives for Multi-Agent Planning](https://openreview.net/attachment?id=DnkCvB8iXR&name=pdf) [`openreview 2023`]
 - [Semantic Anomaly Detection with Large Language Models](https://arxiv.org/pdf/2305.11307.pdf) [`arxiv 2023`]
 
 </details>
 
 ## :open_file_folder: Datasets
-- [Talk2Car: Taking Control of Your Self-Driving Car](https://arxiv.org/abs/1909.10838.pdf) [Project](https://macchina-ai.cs.kuleuven.be/) [`EMNLP-IJNLP 2019`]
-- [Textual explanations for self-driving vehicles](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf) [Github](https://github.com/JinkyuKimUCB/explainable-deep-driving) [`ECCV 2018`]
+- [Talk2Car: Taking Control of Your Self-Driving Car](https://arxiv.org/abs/1909.10838.pdf) [`EMNLP-IJNLP 2019`,[Project](https://macchina-ai.cs.kuleuven.be/)]
+- [Textual explanations for self-driving vehicles](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf) [`ECCV 2018`, [Github](https://github.com/JinkyuKimUCB/explainable-deep-driving)]
 - [Drama: Joint risk localization and captioning in driving](https://openaccess.thecvf.com/content/WACV2023/papers/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.pdf) [`WACV 2023`]
 - [3D Dense Captioning Beyond Nouns: A Middleware for Autonomous Driving](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) [`openreview 2023`]
 - [SwapTransformer: Highway Overtaking Tactical Planner Model via Imitation Learning on OSHA Dataset](https://openreview.net/attachment?id=9wSWiavGwU&name=pdf) [`openreview 2023`]
-- [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/pdf/2305.14836.pdf) [`arxiv 2023`]
+- [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/pdf/2305.14836.pdf) [`arxiv 2023`, [Github](https://github.com/qiantianwen/NuScenes-QA)]
 - DriveLM: Drive on Language [[Project](https://github.com/OpenDriveLab/DriveLM)]
 
 ## :mortar_board: Tutorial

@@ -9,7 +9,7 @@
 
 Here is a collection of research papers for **awesome knowledge-driven autonomous driving (AD)**. The repository will be continuously updated to track the frontier of knowledge-driven AD.
 
-🌟 Welcome to follow and star our awesome knowledge-driven AD! 🌟
+🌟 Welcome to star and contribute (PR) this awesome knowledge-driven AD! 🌟
 
 <pre name="code" class="html">
 <font color="red">[2023.10.24] <b>New: Our survey on the knowledge-driven AD is coming soon! </b></font>
@@ -19,27 +19,13 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 ## :page_with_curl: Table of Contents
 
   - :books: [Papers](#books-papers)
-    - :book: [Before LLMs](#book-before-llms)
-    - :book: [The era of LLMs](#book-the-era-of-llms)
   - :open\_file\_folder: [Datasets](#open_file_folder-datasets)
   - :mortar\_board: [Tutorial](#mortar_board-tutorial)
   - :memo: [License](#memo-license)
 
-## :books: Papers
-
-### :book: Before LLMs
-<details open>
-<summary>Toggle</summary>
-
+## :books: Papers 
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
 - [ADAPT: Action-aware Driving Caption Transformer](https://arxiv.org/abs/2302.00673.pdf) [`ICRA 2023`, [Github](https://github.com/jxbbb/ADAPT)]
-
-</details>
-
-### :book: The era of LLMs
-<details open>
-<summary>Toggle</summary>
-
 - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162) [`arxiv 2023`, [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 - [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)] [`arxiv 2023`, [Project](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
 - [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2309.16292.pdf) [`arxiv 2023`, [Github](https://github.com/PJLab-ADG/DiLu)]
@@ -58,8 +44,8 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [GAIA-1: A Generative World Model for Autonomous Driving](https://arxiv.org/abs/2309.17080.pdf) [`arxiv 2023`]
 - [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2309.05186.pdf) [`arxiv 2023`]
 - [Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving](https://arxiv.org/pdf/2309.05282.pdf) [`arxiv 2023`]
-- [OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data](https://arxiv.org/pdf/2310.13398.pdf) [[Github](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D)] [`arxiv 2023`]
-- [LangProp: A Code Optimization Framework Using Language Models Applied to Driving](https://openreview.net/pdf?id=UgTrngiN16) [[Github](https://github.com/langprop-iclr24/LangProp)] [`openreview 2023`]
+- [OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data](https://arxiv.org/pdf/2310.13398.pdf) [`arxiv 2023`, [Github](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D)]
+- [LangProp: A Code Optimization Framework Using Language Models Applied to Driving](https://openreview.net/pdf?id=UgTrngiN16) [`openreview 2023`, [Github](https://github.com/langprop-iclr24/LangProp)]
 - [Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://openreview.net/pdf?id=Psl75UCoZM) [`openreview 2023`]
 - [Planning with an Ensemble of World Models](https://openreview.net/pdf?id=cvGdPXaydP) [`openreview 2023`]
 - [Large Language Models Can Design Game-Theoretic Objectives for Multi-Agent Planning](https://openreview.net/pdf?id=DnkCvB8iXR) [`openreview 2023`]
@@ -68,11 +54,10 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [Waymax: An Accelerated, Data-Driven Simulator for Large-Scale Autonomous Driving Research](https://arxiv.org/abs/2310.08710) [`NeurIPS 2023`, [Github](https://github.com/waymo-research/waymax)]
 - [Large Language Models Can Design Game-theoretic Objectives for Multi-Agent Planning](https://openreview.net/attachment?id=DnkCvB8iXR&name=pdf) [`openreview 2023`]
 - [Semantic Anomaly Detection with Large Language Models](https://arxiv.org/pdf/2305.11307.pdf) [`arxiv 2023`]
-
-</details>
+- [Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving](https://arxiv.org/pdf/2310.16639.pdf) [`arxiv 2023`]
 
 ## :open_file_folder: Datasets
-- [Talk2Car: Taking Control of Your Self-Driving Car](https://arxiv.org/abs/1909.10838.pdf) [`EMNLP-IJNLP 2019`,[Project](https://macchina-ai.cs.kuleuven.be/)]
+- [Talk2Car: Taking Control of Your Self-Driving Car](https://arxiv.org/abs/1909.10838.pdf) [`EMNLP-IJNLP 2019`, [Project](https://macchina-ai.cs.kuleuven.be/)]
 - [Textual explanations for self-driving vehicles](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf) [`ECCV 2018`, [Github](https://github.com/JinkyuKimUCB/explainable-deep-driving)]
 - [Drama: Joint risk localization and captioning in driving](https://openaccess.thecvf.com/content/WACV2023/papers/Malla_DRAMA_Joint_Risk_Localization_and_Captioning_in_Driving_WACV_2023_paper.pdf) [`WACV 2023`]
 - [3D Dense Captioning Beyond Nouns: A Middleware for Autonomous Driving](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) [`openreview 2023`]

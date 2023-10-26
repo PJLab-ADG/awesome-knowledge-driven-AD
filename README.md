@@ -9,7 +9,7 @@
 
 Here is a collection of research papers for **awesome knowledge-driven autonomous driving (AD)**. The repository will be continuously updated to track the frontier of knowledge-driven AD.
 
-🌟 Welcome to star and contribute (PR) this awesome knowledge-driven AD! 🌟
+🌟 Welcome to star and contribute to (PR) this awesome knowledge-driven AD! 🌟
 
 <pre name="code" class="html">
 <font color="red">[2023.10.24] <b>New: Our survey on the knowledge-driven AD is coming soon! </b></font>

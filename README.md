@@ -16,6 +16,8 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 <font color="red">[2023.10.24] <b>New: We release the awesome knowledge-driven AD!</b></font>
 </pre>
 
+![What is Knowledge-dirven](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD/assets/18390668/416fab44-cc5a-4a6b-90f3-464e8b6e9ea2)
+
 ## :page_with_curl: Table of Contents
 
   - :books: [Papers](#books-papers)

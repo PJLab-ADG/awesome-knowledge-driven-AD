@@ -70,15 +70,15 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving](https://arxiv.org/pdf/2310.20650.pdf) [`arxiv 2023`]
 - [MUVO: A Multimodal Generative World Model for Autonomous Driving with Geometric Representations](https://arxiv.org/pdf/2311.11762.pdf) [`arxiv 2023`]
 - [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813) [`arxiv 2023`]
-- [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/pdf/2311.08206.pdf)[`WACVW 2024`]
-- [On the Road with GPT-4V (ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/pdf/2311.05332)[`arxiv 2023`]
+- [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/pdf/2311.08206.pdf) [`WACVW 2024`]
+- [On the Road with GPT-4V (ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/pdf/2311.05332) [`arxiv 2023`]
 
 
 ## :clipboard: Survey
-- [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/ftp/arxiv/papers/2311/2311.12144)[`arxiv 2023`]
-- [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320)[`arxiv 2023`]
-- [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.01043)[`arxiv 2023`]
-- [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414)[`arxiv 2023`]
+- [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144) [`arxiv 2023`]
+- [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320) [`arxiv 2023`]
+- [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.01043) [`arxiv 2023`]
+- [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414) [`arxiv 2023`]
 
 
 ## :open_file_folder: Datasets

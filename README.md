@@ -72,6 +72,12 @@ Here is a collection of research papers for **awesome knowledge-driven autonomou
 - [A Language Agent for Autonomous Driving](https://arxiv.org/pdf/2311.10813) [`arxiv 2023`]
 - [Human-Centric Autonomous Systems With LLMs for User Command Reasoning](https://arxiv.org/pdf/2311.08206.pdf) [`WACVW 2024`]
 - [On the Road with GPT-4V (ision): Early Explorations of Visual-Language Model on Autonomous Driving](https://arxiv.org/pdf/2311.05332) [`arxiv 2023`]
+- [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf) [`arxiv 2023`, [Project](https://drivingdiffusion.github.io/)]
+- [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) [`arxiv 2023`, [Project](https://github.com/wzzheng/OccWorld)]
+- [ADriver-I: A General World Model for Autonomous Driving](https://arxiv.org/pdf/2311.13549.pdf) [`arxiv 2023`]
+- [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) [`arxiv 2023`, [Project](https://drive-wm.github.io/), [Github](https://github.com/BraveGroup/Drive-WM)]
+
+
 
 
 ## :clipboard: Survey

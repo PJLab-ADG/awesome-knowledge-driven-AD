@@ -15,7 +15,7 @@ Here is a collection of research papers and the relevant valuable open-source re
 
 <pre name="code" class="html">
 <font color="red">[2023.12.08] <b>New: We release the survey 'Towards Knowledge-driven Autonomous Driving'! </b></font>
-<font color="red">[2023.10.24]  New: We release the awesome knowledge-driven AD! </font>
+<font color="red">[2023.10.24] New: We release the awesome knowledge-driven AD! </font>
 </pre>
 
 

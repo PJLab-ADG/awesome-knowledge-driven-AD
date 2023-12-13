@@ -59,6 +59,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 | [NuScenes-QA](https://github.com/qiantianwen/NuScenes-QA)   | C+L+R    | Question Answering                     | Question Answering                         | Exist, Count, Object, Status, Comparison, Acc |
 | [DESIGN](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) | C+L+R | Scene Captioning, Question Answering  | Question Answering, Motion Planning          | BLEU-4, METEOR, ROUGE, L2 Error, Collision Rate  |
 | [Reason2Drive](https://github.com/fudan-zvg/Reason2Drive)| C+L   |  Question Answering |  Question Answering      |  BLEU-4, METEOR, ROUGE, CIDER|
+| [NuScenes-MQA](https://github.com/fudan-zvg/Reason2Drive)| C+L+R  |  Question Answering |  Question Answering      |  BLEU-4, METEOR, ROUGE|
+| [LangAuto](https://github.com/opendilab/LMDrive)| C+L   |  Navigation Instructions, Notice Instructions     | Vehicle Control   |    RC, IS, DS  |
 
 
 ### Environment
@@ -122,7 +124,12 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [GPT-4 Enhanced Multimodal Grounding for Autonomous Driving: Leveraging Cross-Modal Attention with Large Language Models](https://arxiv.org/pdf/2312.03543.pdf) [`arxiv 2023`, [Github](https://github.com/Petrichor625/Talk2car_CAVG)]
 - [ChatGPT as Your Vehicle Co-Pilot: An Initial Attempt](https://ieeexplore.ieee.org/document/10286969) [`IEEE TIV 2023`]
 - [DriveLLM: Charting The Path Toward Full Autonomous Driving with Large Language Models](https://ieeexplore.ieee.org/document/10297415/) [`IEEE TIV 2023`]
-  
+- [NuScenes-MQA: Integrated Evaluation of Captions and QA for Autonomous Driving Datasets using Markup Annotations](https://arxiv.org/pdf/2312.06352.pdf) [`WACVW 2024`, [Github](https://github.com/turingmotors/NuScenes-MQA)]
+- [Evaluation of Large Language Models for Decision Making in Autonomous Driving](https://arxiv.org/pdf/2312.06351.pdf) [`arxiv 2023`]
+- [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/pdf/2312.07488.pdf) [`arxiv 2023`, [Github](https://github.com/opendilab/LMDrive)]
+
+
+
 ## :clipboard: Survey
 - [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144) [`arxiv 2023`]
 - [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320) [`arxiv 2023`]

@@ -61,8 +61,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 | [Reason2Drive](https://github.com/fudan-zvg/Reason2Drive)| C+L   |  Question Answering |  Question Answering      |  BLEU-4, METEOR, ROUGE, CIDER|
 | [NuScenes-MQA](https://github.com/fudan-zvg/Reason2Drive)| C+L+R  |  Question Answering |  Question Answering      |  BLEU-4, METEOR, ROUGE|
 | [LangAuto](https://github.com/opendilab/LMDrive)| C+L   |  Navigation Instructions, Notice Instructions     | Vehicle Control   |    RC, IS, DS  |
-| [DriveMLM](https://github.com/OpenGVLab/DriveMLM) | C+L   | Question Answering, User Instructions    | Vehicle Control, Decision Explanation   |    RC, IS, DS, BLEU-4, METEOR, CIDER
-|
+| [DriveMLM](https://github.com/OpenGVLab/DriveMLM) | C+L   | Question Answering, User Instructions    | Vehicle Control, Decision Explanation   |    RC, IS, DS, BLEU-4, METEOR, CIDER|
 
 
 ### Environment

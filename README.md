@@ -81,6 +81,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs](https://arxiv.org/pdf/2312.04372.pdf) [`arxiv 2023`]
 - [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) [`arxiv 2023`]
 - [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://arxiv.org/abs/2312.09243) [`arxiv 2023`]
+- ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration [`coming soon`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)] 
 
 ### Driver Agent
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
@@ -131,6 +132,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Evaluation of Large Language Models for Decision Making in Autonomous Driving](https://arxiv.org/pdf/2312.06351.pdf) [`arxiv 2023`]
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/pdf/2312.07488.pdf) [`arxiv 2023`, [Github](https://github.com/opendilab/LMDrive)]
 - [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245) [`arxiv 2023`, [Github](https://github.com/OpenGVLab/DriveMLM)]
+- [Large Language Models for Autonomous Driving: Real-World Experiments](https://arxiv.org/pdf/2312.09397.pdf) [`arxiv 2023`]
 
 
 

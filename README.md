@@ -55,7 +55,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 | [Refer-KITTI](https://github.com/wudongming97/RMOT)   | C+L      | Object Referral                         | Object Referring, Object Tracking           | HOTA                                   |
 | [DRAMA](https://usa.honda-ri.com/drama)                | C        | Advice, Risk Localization              | Motion Planning                            | L2 Error, Collision Rate               |
 | [Rank2Tell](https://usa.honda-ri.com/rank2tell) | C+L | Object Referral, Importance Ranking    | Importance Estimation, Scene Captioning    | F1 Score, Accuracy, BLEU-4, METEOR, ROUGE, CIDER |
-| [DriveLM](https://github.com/OpenDriveLab/DriveLM)          | C+L+R    | Scene Captioning, Question Answering    | Scene Captioning, Question Answering       | -                                      |
+| [DriveLM](https://github.com/OpenDriveLab/DriveLM)          | C   | Scene Captioning, Question Answering    | Scene Captioning, Question Answering, Vehicle Control         | ADE, FDE,  Accuracy,  Collision Rate, SPICE, GPT-Score                                   |
 | [NuScenes-QA](https://github.com/qiantianwen/NuScenes-QA)   | C+L+R    | Question Answering                     | Question Answering                         | Exist, Count, Object, Status, Comparison, Acc |
 | [DESIGN](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) | C+L+R | Scene Captioning, Question Answering  | Question Answering, Motion Planning          | BLEU-4, METEOR, ROUGE, L2 Error, Collision Rate  |
 | [Reason2Drive](https://github.com/fudan-zvg/Reason2Drive)| C+L   |  Question Answering |  Question Answering      |  BLEU-4, METEOR, ROUGE, CIDER|
@@ -81,7 +81,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [LaMPilot: An Open Benchmark Dataset for Autonomous Driving with Language Model Programs](https://arxiv.org/pdf/2312.04372.pdf) [`arxiv 2023`]
 - [DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/abs/2312.07920) [`arxiv 2023`]
 - [OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields](https://arxiv.org/abs/2312.09243) [`arxiv 2023`]
-- ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration [`coming soon`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)] 
+- ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration [`coming soon`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)]
+- [Neural Lighting Simulation for Urban Scenes](https://arxiv.org/abs/2312.06654) [`NeurIPS 2023`, [Project](https://waabi.ai/lightsim/)]
 
 ### Driver Agent
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
@@ -133,6 +134,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/pdf/2312.07488.pdf) [`arxiv 2023`, [Github](https://github.com/opendilab/LMDrive)]
 - [DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving](https://arxiv.org/abs/2312.09245) [`arxiv 2023`, [Github](https://github.com/OpenGVLab/DriveMLM)]
 - [Large Language Models for Autonomous Driving: Real-World Experiments](https://arxiv.org/pdf/2312.09397.pdf) [`arxiv 2023`]
+- [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115.pdf) [`arxiv 2023`, [Github](https://github.com/wayveai/LingoQA)]
+- [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) [`arxiv 2023`, [Github](https://github.com/OpenDriveLab/DriveLM)]
 
 
 
@@ -148,6 +151,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)
 - [Blog] [LINGO-1: Exploring Natural Language for Autonomous Driving](https://wayve.ai/thinking/lingo-natural-language-autonomous-driving/)
 - [Blog] [Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy](https://wayve.ai/thinking/introducing-gaia1/)
+- [Blog] [Ghost Gym: A Neural Simulator for Autonomous Driving](https://wayve.ai/thinking/ghost-gym-neural-simulator/)
 
 ## :bookmark: Citation
 If you find our paper useful, please kindly cite us via:

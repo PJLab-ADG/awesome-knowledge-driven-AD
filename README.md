@@ -102,7 +102,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Language-Guided Traffic Simulation via Scene-Level Diffusion](https://arxiv.org/abs/2306.06344) [`arxiv 2023`]
 - [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379v1) [`arxiv 2023`, [Github](https://github.com/wudongming97/Prompt4Driving)]
 - [Talk2BEV: Language-Enhanced Bird's Eye View (BEV) Maps](https://arxiv.org/abs/2310.02251) [`arxiv 2023`, [Project](https://llmbev.github.io/talk2bev/), [Github](https://github.com/llmbev/talk2bev)]
-- [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/abs/2310.10357) [`arxiv 2023`]
+- [BEVGPT: Generative Pre-trained Large Model for Autonomous Driving Prediction, Decision-Making, and Planning](https://arxiv.org/abs/2310.10357) [`AAAI 2024`]
 - [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2309.05186.pdf) [`arxiv 2023`]
 - [Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving](https://arxiv.org/pdf/2309.05282.pdf) [`arxiv 2023`]
 - [OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data](https://arxiv.org/pdf/2310.13398.pdf) [`arxiv 2023`, [Github](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D)]

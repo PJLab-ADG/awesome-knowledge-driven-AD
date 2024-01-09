@@ -150,7 +150,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [A Survey on Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2311.12320) [`arxiv 2023`]
 - [A Survey of Large Language Models for Autonomous Driving](https://arxiv.org/abs/2311.01043) [`arxiv 2023`]
 - [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414) [`arxiv 2023`]
-- [A Survey of Simulators for Autonomous Driving: Taxonomy, Challenges, and Evaluation Metric](https://arxiv.org/pdf/2311.11056.pdf) [`arxiv 2023`]
+- [Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving](https://arxiv.org/pdf/2311.11056.pdf) [`arxiv 2023`]
 - [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316) [`arxiv 2023`]
 
 ## :mortar_board: Tutorial

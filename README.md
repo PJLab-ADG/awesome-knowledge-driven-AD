@@ -95,7 +95,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Textual explanations for self-driving vehicles](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.pdf) [`ECCV 2018`, [Github](https://github.com/JinkyuKimUCB/explainable-deep-driving)]
 - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162) [`arxiv 2023`, [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 - [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)] [`arxiv 2023`, [Project](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
-- [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2309.16292.pdf) [`arxiv 2023`, [Github](https://github.com/PJLab-ADG/DiLu)]
+- [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2309.16292.pdf) [`ICLR 24`, [Github](https://github.com/PJLab-ADG/DiLu)]
 - [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) [`arxiv 2023`, [Github](https://github.com/PointsCoder/GPT-Driver)]
 - [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/abs/2310.01957) [`arxiv 2023`, [Github](https://github.com/wayveai/Driving-with-LLMs)]
 - [LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving](https://arxiv.org/abs/2310.03026) [`arxiv 2023`, [Project](https://sites.google.com/view/llm-mpc)]
@@ -153,6 +153,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Vision Language Models in Autonomous Driving and Intelligent Transportation Systems](https://arxiv.org/abs/2310.14414) [`arxiv 2023`]
 - [Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving](https://arxiv.org/pdf/2311.11056.pdf) [`arxiv 2023`]
 - [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316) [`arxiv 2023`]
+- [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/abs/2401.08045) [`arxiv 2024`]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

@@ -86,6 +86,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Neural Lighting Simulation for Urban Scenes](https://arxiv.org/abs/2312.06654) [`NeurIPS 2023`, [Project](https://waabi.ai/lightsim/)]
 - [Street Gaussians for Modeling Dynamic Urban Scenes](https://arxiv.org/abs/2401.01339) [`arxiv 2024`, [Github](https://github.com/zju3dv/street_gaussians), [Project](https://zju3dv.github.io/street_gaussians/)]
 - [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) [`arxiv 2023`, [Github](https://github.com/wenyuqing/panacea), [Project](https://panacea-ad.github.io/)]
+- [LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving](https://arxiv.org/abs/2402.01246) [`arxiv 2024`, [Github](https://pjlab-adg.github.io/limsim_plus/), [Project](https://pjlab-adg.github.io/limsim_plus/)]
 
 ### Driver Agent
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
@@ -109,7 +110,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [HiLM-D: Towards High-Resolution Understanding in Multimodal Large Language Models for Autonomous Driving](https://arxiv.org/pdf/2309.05186.pdf) [`arxiv 2023`]
 - [Can you text what is happening? Integrating pre-trained language encoders into trajectory prediction models for autonomous driving](https://arxiv.org/pdf/2309.05282.pdf) [`arxiv 2023`]
 - [OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data](https://arxiv.org/pdf/2310.13398.pdf) [`arxiv 2023`, [Github](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D)]
-- [LangProp: A Code Optimization Framework Using Language Models Applied to Driving](https://openreview.net/pdf?id=UgTrngiN16) [`openreview 2023`, [Github](https://github.com/langprop-iclr24/LangProp)]
+- [LangProp: A Code Optimization Framework Using Language Models Applied to Driving](https://arxiv.org/abs/2401.10314) [`arxiv 2024`, [Github](https://github.com/langprop-iclr24/LangProp)]
 - [Learning Unsupervised World Models for Autonomous Driving via Discrete Diffusion](https://openreview.net/pdf?id=Psl75UCoZM) [`openreview 2023`]
 - [Planning with an Ensemble of World Models](https://openreview.net/pdf?id=cvGdPXaydP) [`openreview 2023`]
 - [Large Language Models Can Design Game-Theoretic Objectives for Multi-Agent Planning](https://openreview.net/pdf?id=DnkCvB8iXR) [`openreview 2023`]
@@ -154,6 +155,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Choose Your Simulator Wisely: A Review on Open-source Simulators for Autonomous Driving](https://arxiv.org/pdf/2311.11056.pdf) [`arxiv 2023`]
 - [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316) [`arxiv 2023`]
 - [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/abs/2401.08045) [`arxiv 2024`]
+- [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105) [`arxiv 2024`]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

@@ -87,6 +87,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) [`arxiv 2023`, [Github](https://github.com/wenyuqing/panacea), [Project](https://panacea-ad.github.io/)]
 - [LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving](https://arxiv.org/abs/2402.01246) [`arxiv 2024`, [Github](https://pjlab-adg.github.io/limsim_plus/), [Project](https://pjlab-adg.github.io/limsim_plus/)]
 - [ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://arxiv.org/abs/2402.05746) [`arxiv 2024`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)]
+- [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826) [`arxiv 2024`] [`arxiv 2024`]
+- [OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving](https://arxiv.org/abs/2402.03830) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/OASim), [Project](https://pjlab-adg.github.io/OASim/)]
 
 ### Driver Agent
 - [Grounding human-to-vehicle advice for self-driving vehicles](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.pdf) [`CVPR 2019`]
@@ -146,6 +148,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving](https://arxiv.org/pdf/2401.03641.pdf) [`arxiv 2024`]
 - [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577) [`arxiv 2024`]
 - [Driving Everywhere with Large Language Model Policy Adaptation](https://arxiv.org/abs/2402.05932)  [`arxiv 2024`, [Github](https://github.com/Boyiliee/llada), [Project](https://boyiliee.github.io/llada/)]
+- [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) [`arxiv 2024`, [Github](https://github.com/YuanJianhao508/RAG-Driver), [Project](https://yuanjianhao508.github.io/RAG-Driver/)]
+- [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) [`arxiv 2024`, [Project](https://tsinghua-mars-lab.github.io/DriveVLM/)]
 
 
 ## :clipboard: Survey

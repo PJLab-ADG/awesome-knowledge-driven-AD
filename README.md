@@ -87,7 +87,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) [`arxiv 2023`, [Github](https://github.com/wenyuqing/panacea), [Project](https://panacea-ad.github.io/)]
 - [LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving](https://arxiv.org/abs/2402.01246) [`arxiv 2024`, [Github](https://pjlab-adg.github.io/limsim_plus/), [Project](https://pjlab-adg.github.io/limsim_plus/)]
 - [ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://arxiv.org/abs/2402.05746) [`arxiv 2024`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)]
-- [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826) [`arxiv 2024`] [`arxiv 2024`]
+- [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826) [`arxiv 2024`]
 - [OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving](https://arxiv.org/abs/2402.03830) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/OASim), [Project](https://pjlab-adg.github.io/OASim/)]
 
 ### Driver Agent

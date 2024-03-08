@@ -101,10 +101,12 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2309.16292.pdf) [`ICLR 2024`, [Github](https://github.com/PJLab-ADG/DiLu)]
 - [Talk2BEV: Language-Enhanced Bird's Eye View (BEV) Maps](https://arxiv.org/abs/2310.02251) [`ICRA 2024`, [Project](https://llmbev.github.io/talk2bev/), [Github](https://github.com/llmbev/talk2bev)]
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/pdf/2312.07488.pdf) [`CVPR 2024`, [Github](https://github.com/opendilab/LMDrive)]
-- [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162) [`arxiv 2023`, [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)]
+- [Driving Everywhere with Large Language Model Policy Adaptation](https://arxiv.org/abs/2402.05932)  [`CVPR 2024`, [Github](https://github.com/Boyiliee/llada), [Project](https://boyiliee.github.io/llada/)]
+- [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162) [`WACVW 2024`, [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)]
+- [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) [`NeurIPSW 2023`, [Github](https://github.com/PointsCoder/GPT-Driver)]
+- [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/abs/2310.01957) [`ICRA 2024`, [Github](https://github.com/wayveai/Driving-with-LLMs)]
+- [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/pdf/2305.14836.pdf) [`AAAI 2024`, [Github](https://github.com/qiantianwen/NuScenes-QA)]
 - [DriveGPT4: Interpretable End-to-end Autonomous Driving via Large Language Model](https://arxiv.org/abs/2310.01412)] [`arxiv 2023`, [Project](https://tonyxuqaq.github.io/projects/DriveGPT4/)]
-- [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) [`arxiv 2023`, [Github](https://github.com/PointsCoder/GPT-Driver)]
-- [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/abs/2310.01957) [`arxiv 2023`, [Github](https://github.com/wayveai/Driving-with-LLMs)]
 - [LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving](https://arxiv.org/abs/2310.03026) [`arxiv 2023`, [Project](https://sites.google.com/view/llm-mpc)]
 - [Receive, Reason, and React: Drive as You Say with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2310.08034) [`arxiv 2023`]
 - [Drive as You Speak: Enabling Human-Like Interaction with Large Language Models in Autonomous Vehicles](https://arxiv.org/abs/2309.10228) [`arxiv 2023`]
@@ -126,7 +128,6 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Driving through the Concept Gridlock: Unraveling Explainability Bottlenecks in Automated Driving](https://arxiv.org/pdf/2310.16639.pdf) [`arxiv 2023`]
 - [3D Dense Captioning Beyond Nouns: A Middleware for Autonomous Driving](https://openreview.net/attachment?id=8T7m27VC3S&name=pdf) [`openreview 2023`]
 - [SwapTransformer: Highway Overtaking Tactical Planner Model via Imitation Learning on OSHA Dataset](https://openreview.net/attachment?id=9wSWiavGwU&name=pdf) [`openreview 2023`]
-- [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/pdf/2305.14836.pdf) [`AAAI 2024`, [Github](https://github.com/qiantianwen/NuScenes-QA)]
 - [Language Prompt for Autonomous Driving](https://arxiv.org/abs/2309.04379v1) [`arxiv 2023`, [Github](https://github.com/wudongming97/Prompt4Driving)]
 - [Drive Anywhere: Generalizable End-to-end Autonomous Driving with Multi-modal Foundation Models](https://arxiv.org/abs/2310.17642) [`arxiv 2023`]
 - [Addressing Limitations of State-Aware Imitation Learning for Autonomous Driving](https://arxiv.org/pdf/2310.20650.pdf) [`arxiv 2023`]
@@ -148,9 +149,9 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving](https://arxiv.org/abs/2401.01065) [`arxiv 2024`]
 - [DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving](https://arxiv.org/pdf/2401.03641.pdf) [`arxiv 2024`]
 - [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577) [`arxiv 2024`]
-- [Driving Everywhere with Large Language Model Policy Adaptation](https://arxiv.org/abs/2402.05932)  [`arxiv 2024`, [Github](https://github.com/Boyiliee/llada), [Project](https://boyiliee.github.io/llada/)]
 - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) [`arxiv 2024`, [Github](https://github.com/YuanJianhao508/RAG-Driver), [Project](https://yuanjianhao508.github.io/RAG-Driver/)]
 - [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) [`arxiv 2024`, [Project](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+- [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)  [`arxiv 2024`, [Github](https://github.com/OpenDriveLab/ELM/)]
 
 
 ## :clipboard: Survey
@@ -162,6 +163,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Towards Knowledge-driven Autonomous Driving](https://arxiv.org/abs/2312.04316) [`arxiv 2023`]
 - [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/abs/2401.08045) [`arxiv 2024`]
 - [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105) [`arxiv 2024`]
+- [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622) [`arxiv 2024`]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

@@ -73,6 +73,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [ChatSim: Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://arxiv.org/abs/2402.05746) [`CVPR 2024`, [Github](https://github.com/yifanlu0227/ChatSim), [Project](https://yifanlu0227.github.io/ChatSim/)]
 - [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) [`CVPR 2024`, [Github](https://github.com/wenyuqing/panacea), [Project](https://panacea-ad.github.io/)]
 - [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) [`CVPR 2024`, [Project](https://drive-wm.github.io/), [Github](https://github.com/BraveGroup/Drive-WM)]
+- [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)  [`CVPR 2024`]
 - [NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://arxiv.org/abs/2106.11810)[`arxiv 2023`, [Github](https://github.com/motional/nuplan-devkit)]
 - [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf) [`arxiv 2023`, [Project](https://drivingdiffusion.github.io/)]
 - [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) [`arxiv 2023`, [Project](https://github.com/wzzheng/OccWorld)]
@@ -89,6 +90,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [LimSim++: A Closed-Loop Platform for Deploying Multimodal LLMs in Autonomous Driving](https://arxiv.org/abs/2402.01246) [`arxiv 2024`, [Github](https://pjlab-adg.github.io/limsim_plus/), [Project](https://pjlab-adg.github.io/limsim_plus/)]
 - [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826) [`arxiv 2024`]
 - [OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving](https://arxiv.org/abs/2402.03830) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/OASim), [Project](https://pjlab-adg.github.io/OASim/)]
+- [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) [`arxiv 2024`, [Github](https://github.com/f1yfisher/DriveDreamer2), [Project](https://drivedreamer2.github.io/)]
 
 
 ### Driver Agent
@@ -101,7 +103,9 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models](https://arxiv.org/pdf/2309.16292.pdf) [`ICLR 2024`, [Github](https://github.com/PJLab-ADG/DiLu)]
 - [Talk2BEV: Language-Enhanced Bird's Eye View (BEV) Maps](https://arxiv.org/abs/2310.02251) [`ICRA 2024`, [Project](https://llmbev.github.io/talk2bev/), [Github](https://github.com/llmbev/talk2bev)]
 - [LMDrive: Closed-Loop End-to-End Driving with Large Language Models](https://arxiv.org/pdf/2312.07488.pdf) [`CVPR 2024`, [Github](https://github.com/opendilab/LMDrive)]
+- [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577) [`CVPR 2024`]
 - [Driving Everywhere with Large Language Model Policy Adaptation](https://arxiv.org/abs/2402.05932)  [`CVPR 2024`, [Github](https://github.com/Boyiliee/llada), [Project](https://boyiliee.github.io/llada/)]
+- [Holistic Autonomous Driving Understanding by Bird’s-Eye-View Injected Multi-Modal Large Models](https://arxiv.org/pdf/2401.00988.pdf) [`CVPR 2024`, [Github](https://github.com/xmed-lab/NuInstruct)]
 - [Drive Like a Human: Rethinking Autonomous Driving with Large Language Models](https://arxiv.org/abs/2307.07162) [`WACVW 2024`, [Github](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 - [GPT-Driver: Learning to Drive with GPT](https://arxiv.org/abs/2310.01415) [`NeurIPSW 2023`, [Github](https://github.com/PointsCoder/GPT-Driver)]
 - [Driving with LLMs: Fusing Object-Level Vector Modality for Explainable Autonomous Driving](https://arxiv.org/abs/2310.01957) [`ICRA 2024`, [Github](https://github.com/wayveai/Driving-with-LLMs)]
@@ -145,10 +149,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [LingoQA: Video Question Answering for Autonomous Driving](https://arxiv.org/pdf/2312.14115.pdf) [`arxiv 2023`, [Github](https://github.com/wayveai/LingoQA)]
 - [DriveLM: Driving with Graph Visual Question Answering](https://arxiv.org/pdf/2312.14150.pdf) [`arxiv 2023`, [Github](https://github.com/OpenDriveLab/DriveLM)]
 - [LLM-Assist: Enhancing Closed-Loop Planning with Language-Based Reasoning](https://arxiv.org/abs/2401.00125) [`arxiv 2024`, [Project](https://llmassist.github.io/)]
-- [Holistic Autonomous Driving Understanding by Bird’s-Eye-View Injected Multi-Modal Large Models](https://arxiv.org/pdf/2401.00988.pdf) [`arxiv 2024`, [Github](https://github.com/xmed-lab/NuInstruct)]
 - [BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving](https://arxiv.org/abs/2401.01065) [`arxiv 2024`]
 - [DME-Driver: Integrating Human Decision Logic and 3D Scene Perception in Autonomous Driving](https://arxiv.org/pdf/2401.03641.pdf) [`arxiv 2024`]
-- [VLP: Vision Language Planning for Autonomous Driving](https://arxiv.org/abs/2401.05577) [`arxiv 2024`]
 - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) [`arxiv 2024`, [Github](https://github.com/YuanJianhao508/RAG-Driver), [Project](https://yuanjianhao508.github.io/RAG-Driver/)]
 - [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) [`arxiv 2024`, [Project](https://tsinghua-mars-lab.github.io/DriveVLM/)]
 - [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)  [`arxiv 2024`, [Github](https://github.com/OpenDriveLab/ELM/)]

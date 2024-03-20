@@ -154,6 +154,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model](https://arxiv.org/abs/2402.10828) [`arxiv 2024`, [Github](https://github.com/YuanJianhao508/RAG-Driver), [Project](https://yuanjianhao508.github.io/RAG-Driver/)]
 - [DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models](https://arxiv.org/pdf/2402.12289.pdf) [`arxiv 2024`, [Project](https://tsinghua-mars-lab.github.io/DriveVLM/)]
 - [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)  [`arxiv 2024`, [Github](https://github.com/OpenDriveLab/ELM/)]
+- [Driving Style Alignment for LLM-powered Driver Agent](https://arxiv.org/pdf/2403.11368.pdf) [`arxiv 2024`]
+- [Large Language Models Powered Context-aware Motion Prediction](https://arxiv.org/pdf/2403.11057.pdf) [`arxiv 2024`]
 
 
 ## :clipboard: Survey

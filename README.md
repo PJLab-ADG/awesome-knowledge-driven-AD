@@ -91,6 +91,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Neural Rendering based Urban Scene Reconstruction for Autonomous Driving](https://arxiv.org/abs/2402.06826) [`arxiv 2024`]
 - [OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving](https://arxiv.org/abs/2402.03830) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/OASim), [Project](https://pjlab-adg.github.io/OASim/)]
 - [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) [`arxiv 2024`, [Github](https://github.com/f1yfisher/DriveDreamer2), [Project](https://drivedreamer2.github.io/)]
+- [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/pdf/2403.19438.pdf) [`arxiv 2024`, [Project](https://subjectdrive.github.io/)]
 
 
 ### Driver Agent
@@ -156,6 +157,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Embodied Understanding of Driving Scenarios](https://arxiv.org/pdf/2403.04593.pdf)  [`arxiv 2024`, [Github](https://github.com/OpenDriveLab/ELM/)]
 - [Driving Style Alignment for LLM-powered Driver Agent](https://arxiv.org/pdf/2403.11368.pdf) [`arxiv 2024`]
 - [Large Language Models Powered Context-aware Motion Prediction](https://arxiv.org/pdf/2403.11057.pdf) [`arxiv 2024`]
+- [LORD: Large Models based Opposite Reward Design for Autonomous Driving](https://arxiv.org/pdf/2403.18965.pdf) [`arxiv 2024`]
 
 
 ## :clipboard: Survey
@@ -168,6 +170,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities](https://arxiv.org/abs/2401.08045) [`arxiv 2024`]
 - [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105) [`arxiv 2024`]
 - [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622) [`arxiv 2024`]
+- [Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://arxiv.org/pdf/2402.02968.pdf) [`arxiv 2024`]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

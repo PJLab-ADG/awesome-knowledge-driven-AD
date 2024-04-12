@@ -92,6 +92,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving](https://arxiv.org/abs/2402.03830) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/OASim), [Project](https://pjlab-adg.github.io/OASim/)]
 - [DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation](https://arxiv.org/abs/2403.06845) [`arxiv 2024`, [Github](https://github.com/f1yfisher/DriveDreamer2), [Project](https://drivedreamer2.github.io/)]
 - [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/pdf/2403.19438.pdf) [`arxiv 2024`, [Project](https://subjectdrive.github.io/)]
+- [TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes](https://arxiv.org/pdf/2404.02410.pdf) [`arxiv 2024`]
+- [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/pdf/2404.06780.pdf) [`arxiv 2024`]
 
 
 ### Driver Agent
@@ -158,6 +160,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Driving Style Alignment for LLM-powered Driver Agent](https://arxiv.org/pdf/2403.11368.pdf) [`arxiv 2024`]
 - [Large Language Models Powered Context-aware Motion Prediction](https://arxiv.org/pdf/2403.11057.pdf) [`arxiv 2024`]
 - [LORD: Large Models based Opposite Reward Design for Autonomous Driving](https://arxiv.org/pdf/2403.18965.pdf) [`arxiv 2024`]
+- [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs](https://arxiv.org/pdf/2404.04869.pdf) [`arxiv 2024`]
+- [AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf) [`arxiv 2024`] 
 
 
 ## :clipboard: Survey

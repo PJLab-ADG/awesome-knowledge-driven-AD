@@ -74,6 +74,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Panacea: Panoramic and Controllable Video Generation for Autonomous Driving](https://arxiv.org/abs/2311.16813) [`CVPR 2024`, [Github](https://github.com/wenyuqing/panacea), [Project](https://panacea-ad.github.io/)]
 - [Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving](https://arxiv.org/abs/2311.17918) [`CVPR 2024`, [Project](https://drive-wm.github.io/), [Github](https://github.com/BraveGroup/Drive-WM)]
 - [Generalized Predictive Model for Autonomous Driving](https://arxiv.org/abs/2403.09630)  [`CVPR 2024`]
+- [DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving](https://arxiv.org/pdf/2405.04390) [`CVPR 2024`]
 - [NuPlan: A closed-loop ML-based planning benchmark for autonomous vehicles](https://arxiv.org/abs/2106.11810)[`arxiv 2023`, [Github](https://github.com/motional/nuplan-devkit)]
 - [DrivingDiffusion: Layout-Guided multi-view driving scene video generation with latent diffusion model](https://arxiv.org/pdf/2310.07771.pdf) [`arxiv 2023`, [Project](https://drivingdiffusion.github.io/)]
 - [OccWorld: Learning a 3D Occupancy World Model for Autonomous Driving](https://arxiv.org/abs/2311.16038) [`arxiv 2023`, [Project](https://github.com/wzzheng/OccWorld)]
@@ -94,6 +95,8 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control](https://arxiv.org/pdf/2403.19438.pdf) [`arxiv 2024`, [Project](https://subjectdrive.github.io/)]
 - [TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes](https://arxiv.org/pdf/2404.02410.pdf) [`arxiv 2024`]
 - [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/pdf/2404.06780.pdf) [`arxiv 2024`]
+- [CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving](https://arxiv.org/pdf/2405.09111.pdf) [`arxiv 2024`]
+- [Probing Multimodal LLMs as World Models for Driving](https://arxiv.org/pdf/2405.05956) [`arxiv 2024`, Github(https://github.com/sreeramsa/DriveSim)] 
 
 
 ### Driver Agent
@@ -161,7 +164,9 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [Large Language Models Powered Context-aware Motion Prediction](https://arxiv.org/pdf/2403.11057.pdf) [`arxiv 2024`]
 - [LORD: Large Models based Opposite Reward Design for Autonomous Driving](https://arxiv.org/pdf/2403.18965.pdf) [`arxiv 2024`]
 - [Prompting Multi-Modal Tokens to Enhance End-to-End Autonomous Driving Imitation Learning with LLMs](https://arxiv.org/pdf/2404.04869.pdf) [`arxiv 2024`]
-- [AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf) [`arxiv 2024`] 
+- [AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf) [`arxiv 2024`]
+- [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/pdf/2405.01533.pdf) [`arxiv 2024`]
+- [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes](https://arxiv.org/pdf/2405.05885) [`arxiv 2024`]
 
 
 ## :clipboard: Survey
@@ -175,6 +180,7 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [A Survey for Foundation Models in Autonomous Driving](https://arxiv.org/abs/2402.01105) [`arxiv 2024`]
 - [World Models for Autonomous Driving: An Initial Survey](https://arxiv.org/abs/2403.02622) [`arxiv 2024`]
 - [Delving into Multi-modal Multi-task Foundation Models for Road Scene Understanding: From Learning Paradigm Perspectives](https://arxiv.org/pdf/2402.02968.pdf) [`arxiv 2024`]
+- [Prospective Role of Foundation Models in Advancing Autonomous Vehicles](https://arxiv.org/pdf/2405.02288.pdf)  [`arxiv 2024`]
 
 ## :mortar_board: Tutorial
 - [WACV2024 Workshop] [MAPLM: A Large-Scale Vision-Language Dataset for Map and Traffic Scene Understanding](https://llvm-ad.github.io/)

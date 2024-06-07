@@ -96,7 +96,11 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes](https://arxiv.org/pdf/2404.02410.pdf) [`arxiv 2024`]
 - [Urban Architect: Steerable 3D Urban Scene Generation with Layout Prior](https://arxiv.org/pdf/2404.06780.pdf) [`arxiv 2024`]
 - [CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving](https://arxiv.org/pdf/2405.09111.pdf) [`arxiv 2024`]
-- [Probing Multimodal LLMs as World Models for Driving](https://arxiv.org/pdf/2405.05956) [`arxiv 2024`, Github(https://github.com/sreeramsa/DriveSim)] 
+- [Probing Multimodal LLMs as World Models for Driving](https://arxiv.org/pdf/2405.05956) [`arxiv 2024`, [Github](https://github.com/sreeramsa/DriveSim)]
+- [OccSora: 4D Occupancy Generation Models as World Simulators for Autonomous Driving](https://arxiv.org/abs/2405.20337) [`arxiv 2024`]
+- [Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability](https://arxiv.org/abs/2405.17398) [`arxiv 2024`, [Github](https://github.com/OpenDriveLab/Vista)]
+- [MagicDrive3D: Controllable 3D Generation for Any-View Rendering in Street Scenes](https://arxiv.org/abs/2405.14475) [`arxiv 2024`]
+- [Unleashing Generalization of End-to-End Autonomous Driving with Controllable Long Video Generation](https://arxiv.org/abs/2406.01349) [`arxiv 2024`, [Project](https://westlake-autolab.github.io/delphi.github.io/,)]
 
 
 ### Driver Agent
@@ -167,7 +171,11 @@ The autonomous driving community has witnessed substantial growth in approaches 
 - [AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning](https://arxiv.org/pdf/2404.06345.pdf) [`arxiv 2024`]
 - [OmniDrive: A Holistic LLM-Agent Framework for Autonomous Driving with 3D Perception, Reasoning and Planning](https://arxiv.org/pdf/2405.01533.pdf) [`arxiv 2024`]
 - [Co-driver: VLM-based Autonomous Driving Assistant with Human-like Behavior and Understanding for Complex Road Scenes](https://arxiv.org/pdf/2405.05885) [`arxiv 2024`]
-
+- [AD-H: Autonomous Driving with Hierarchical Agents](https://arxiv.org/abs/2406.03474) [`arxiv 2024`]
+- [DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences](https://arxiv.org/abs/2406.03008) [`arxiv 2024`]
+- [PlanAgent: A Multi-modal Large Language Agent for Closed-loop Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) [`arxiv 2024`]
+- [REvolve: Reward Evolution with Large Language Models for Autonomous Driving](https://arxiv.org/abs/2406.01309) [`arxiv 2024`, [Project](https://rishihazra.github.io/REvolve)]
+- [Continuously Learning, Adapting, and Improving: A Dual-Process Approach to Autonomous Driving](https://arxiv.org/abs/2405.15324) [`arxiv 2024`, [Github](https://github.com/PJLab-ADG/LeapAD), [Project](https://leapad-2024.github.io/LeapAD/)]
 
 ## :clipboard: Survey
 - [Applications of Large Scale Foundation Models for Autonomous Driving](https://arxiv.org/abs/2311.12144) [`arxiv 2023`]
